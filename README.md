@@ -1,6 +1,6 @@
 1. Clone the repository
     ```
-    git clone https://github.com/seabeepraveen/HIDS
+    (https://github.com/aswin0827/Host_Intrusion_Detection_System.git)
     ```
 2. Create the virtual environment
     ```
